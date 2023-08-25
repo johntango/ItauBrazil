@@ -1,0 +1,16 @@
+
+1. **Retail Banking**: Handles personal banking services for individual customers.
+2. **Commercial Banking**: Manages services for small and medium-sized businesses.
+3. **Corporate Banking**: Offers banking solutions to large corporations and businesses.
+4. **Investment Banking**: Focuses on investment products, underwriting, and mergers & acquisitions.
+5. **Wealth Management**: Provides financial planning, investment portfolio management, and other financial services to high-net-worth individuals.
+6. **Treasury and Risk Management**: Deals with the bank's financial risks and overall liquidity.
+7. **Mortgage Department**: Offers and manages home loans and other real estate financing.
+8. **Customer Service**: Responsible for addressing general inquiries and customer support.
+9. **Human Resources**: Manages recruitment, training, benefits, and other HR functions.
+10. **Legal and Compliance**: Ensures that the bank is operating in accordance with all relevant laws and regulations.
+11. **Information Technology**: Responsible for the bank's technological infrastructure and cybersecurity.
+12. **Marketing and Public Relations**: Focuses on the bank's branding, advertising, and external communication.
+13. **Operations and Administration**: Manages the day-to-day administrative tasks and operational processes.
+14. **Credit Analysis**: Evaluates and assesses the creditworthiness of individuals and businesses.
+
